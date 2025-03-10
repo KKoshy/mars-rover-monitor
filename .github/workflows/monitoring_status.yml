@@ -86,6 +86,7 @@ jobs:
         path: previous_json
         run-id: ${{ steps.get_last_run.outputs.run_id }}
         github-token: ${{ secrets.GITHUB_TOKEN }}
+      continue-on-error: true
 
     - name: Compare JSON files and store differences
       run: |
