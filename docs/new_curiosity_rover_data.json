@@ -1,0 +1,27 @@
+[
+    {
+        "pk": 4471,
+        "RMC": "114_0",
+        "site": 114,
+        "drive": 0,
+        "sol": 4471,
+        "easting": 8143830.001,
+        "northing": -283952.87,
+        "elev_geoid": -3709.169,
+        "lon": 137.391338,
+        "lat": -4.79045667,
+        "roll": 6.78,
+        "pitch": 4.63,
+        "yaw": -138.97,
+        "yaw_rad": -2.42552,
+        "tilt": 8.2,
+        "dist_m": 19.62,
+        "dist_total_m": 34318.02,
+        "dist_km": 34.01,
+        "dist_mi": 21.13,
+        "drive_type": "final",
+        "x_coordinate": 137.391338,
+        "y_coordinate": -4.79045667,
+        "z_coordinate": -3709.169
+    }
+]

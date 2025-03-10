@@ -1,0 +1,21 @@
+[
+    {
+        "pk": "25",
+        "sample_start": "25",
+        "sample_num": "25",
+        "date": "July 21, 2024",
+        "sol": "1215",
+        "sample_name": "Sapphire_Canyon",
+        "outcrop_name": "Beaver Falls",
+        "location": "Margin",
+        "sample_type": "Rock Core",
+        "easting": 4346300.389,
+        "northing": 1096432.197,
+        "elev": -2354.236,
+        "lon": 77.30514915,
+        "lat": 18.49747434,
+        "x_coordinate": 77.30514915,
+        "y_coordinate": 18.49747434,
+        "z_coordinate": -2354.236
+    }
+]

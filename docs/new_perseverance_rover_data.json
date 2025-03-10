@@ -1,0 +1,30 @@
+[
+    {
+        "pk": 1435,
+        "RMC": "69_2124",
+        "site": 69,
+        "drive": 2124,
+        "sol": 1435,
+        "easting": 4343677.821,
+        "northing": 1094313.303,
+        "elev_geoid": -1918.451782,
+        "elev_radii": -3596.426514,
+        "radius": 3392593.573,
+        "lon": 77.25850303,
+        "lat": 18.46172733,
+        "roll": -1.094322383,
+        "pitch": -15.50897456,
+        "yaw": -89.69463876,
+        "yaw_rad": -1.565466768,
+        "tilt": 15.54658938,
+        "dist_m": 44.142,
+        "dist_total_m": 33391.777,
+        "dist_km": 33.39,
+        "dist_mi": 20.75,
+        "final": "y",
+        "Note": "End-of-drive localization",
+        "x_coordinate": 77.25850303,
+        "y_coordinate": 18.46172733,
+        "z_coordinate": -1918.451782
+    }
+]
