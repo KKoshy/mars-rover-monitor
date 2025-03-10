@@ -1,0 +1,28 @@
+{
+  curiosityWayPoints{
+    id
+    type
+    RMC
+    site
+    drive
+    sol
+    easting
+    northing
+    elevGeoid
+    lon
+    lat
+    roll
+    pitch
+    yaw
+    yawRad
+    tilt
+    distM
+    distTotalM
+    distKm
+    distMi
+    driveType
+    xCoordinate
+    yCoordinate
+    zCoordinate
+  }
+}

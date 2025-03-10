@@ -1,0 +1,21 @@
+{
+  sampleTubesPoints{
+    id
+    sampleStart
+    sampleNum
+    date
+    sol
+    sampleName
+    outcropName
+    location
+    sampleType
+    easting
+    northing
+    elev
+    lon
+    lat
+    xCoordinate
+    yCoordinate
+    zCoordinate
+  }
+}
