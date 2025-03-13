@@ -34382,5 +34382,61 @@
             "y_coordinate": -4.79045667,
             "z_coordinate": -3709.169
         }
+    },
+    {
+        "pk": 4473,
+        "model": "rovers.curiositywaypoint",
+        "fields": {
+            "RMC": "114_288",
+            "site": 114,
+            "drive": 288,
+            "sol": 4473,
+            "easting": 8143824.938,
+            "northing": -283975.103,
+            "elev_geoid": -3707.739,
+            "lon": 137.3912526,
+            "lat": -4.79083175,
+            "roll": 3.8,
+            "pitch": 1.12,
+            "yaw": -143.05,
+            "yaw_rad": -2.49662,
+            "tilt": 3.97,
+            "dist_m": 30.94,
+            "dist_total_m": 34348.96,
+            "dist_km": 34.04,
+            "dist_mi": 21.15,
+            "drive_type": "final",
+            "x_coordinate": 137.3912526,
+            "y_coordinate": -4.79083175,
+            "z_coordinate": -3707.739
+        }
+    },
+    {
+        "pk": 4478,
+        "model": "rovers.curiositywaypoint",
+        "fields": {
+            "RMC": "114_366",
+            "site": 114,
+            "drive": 366,
+            "sol": 4478,
+            "easting": 8143825.525,
+            "northing": -283975.169,
+            "elev_geoid": -3707.646,
+            "lon": 137.3912625,
+            "lat": -4.79083287,
+            "roll": 4.5,
+            "pitch": 0.13,
+            "yaw": -115.26,
+            "yaw_rad": -2.01167,
+            "tilt": 4.5,
+            "dist_m": 4.37,
+            "dist_total_m": 34353.33,
+            "dist_km": 34.05,
+            "dist_mi": 21.16,
+            "drive_type": "final",
+            "x_coordinate": 137.3912625,
+            "y_coordinate": -4.79083287,
+            "z_coordinate": -3707.646
+        }
     }
 ]
