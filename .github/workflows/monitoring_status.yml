@@ -1,9 +1,9 @@
 name: Mars Rover Monitoring Status
 run-name: This is being automatically tested out by GitHub Actions
 on:
-  schedule:
-    - cron: '0 7 * * *'
-  # workflow_dispatch:
+  # schedule:
+  #   - cron: '0 7 * * *'
+  workflow_dispatch:
 
 
 permissions:
