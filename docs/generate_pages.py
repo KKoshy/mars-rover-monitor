@@ -20,8 +20,8 @@ template = """
 <html>
 <head>
     <title>{title}</title>
-    <script src="https://unpkg.com/tabulator-tables/dist/js/tabulator.min.js"></script>
-    <link href="https://unpkg.com/tabulator-tables/dist/css/tabulator.min.css" rel="stylesheet">
+    <script src="https://unpkg.com/tabulator-tables@6.3.1/dist/js/tabulator.min.js"></script>
+    <link href="https://unpkg.com/tabulator-tables@6.3.1/dist/css/tabulator.min.css" rel="stylesheet">
     <style>
         #json-table {{ width: 100%; }}
         body {{ font-family: Arial, sans-serif; text-align: center; }}
