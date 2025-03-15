@@ -61,7 +61,7 @@ NASA's Curiosity rover is a robotic, car-sized vehicle deployed as part of the M
 Curiosity is equipped with a suite of scientific instruments, including cameras, a robotic arm with specialized laboratory-like tools, and other equipment, to analyze the Martian soil and rocks. <br>
 Landing location: Mount Sharp -> Gale Crater
 
-![curiosity_rover_self_portrait](.github/images/curiosity_self_portrait.png "curiosity self portrait")
+![curiosity_rover_self_portrait](.github/images/curiosity_self_portrait.PNG "curiosity self portrait")
 
 ## What is Perseverance?
 NASA's "Perseverance" refers to the Mars 2020 mission's rover, designed to explore the Jezero Crater, searching for signs of past microbial life. <br>
