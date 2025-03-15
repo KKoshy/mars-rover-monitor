@@ -147,8 +147,7 @@ jobs:
         git config --global user.email "github-actions@github.com"
         git fetch
         git checkout gh-pages
-        cp -r docs/* gh_docs/
-        git add gh_docs/* *.md
+        git add docs/* *.md
         git commit -m "Deploy JSON Tables with Tabulator.js"
         git push --force origin gh-pages
       continue-on-error: true
