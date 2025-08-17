@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table for new_sample_tubes_data.json</title>
+    <script src="https://unpkg.com/tabulator-tables@6.3.1/dist/js/tabulator.min.js"></script>
+    <link href="https://unpkg.com/tabulator-tables@6.3.1/dist/css/tabulator.min.css" rel="stylesheet">
+    <style>
+        #json-table { width: 100%; }
+        body { font-family: Arial, sans-serif; text-align: center; }
+    </style>
+</head>
+<body>
+    <h2>Table for new_sample_tubes_data.json</h2>
+    <div id="json-table"></div>
+
+    <script>
+        fetch("new_sample_tubes_data.json")
+            .then(response => response.json())
+            .then(data => {
+                new Tabulator("#json-table", {
+                    data: data,
+                    autoColumns: true,
+                    layout: "fitDataFill",
+                    pagination: "local",
+                    paginationSize: 20,
+                    movableColumns: true,
+                    filterable: true
+                });
+            })
+            .catch(error => console.error("Error loading JSON:", error));
+    </script>
+    <a href="index.html">Back to Home</a>
+</body>
+</html>

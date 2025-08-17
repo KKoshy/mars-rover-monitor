@@ -1,0 +1,30 @@
+[
+    {
+        "pk": 1595,
+        "RMC": "78_2152",
+        "site": 78,
+        "drive": 2152,
+        "sol": 1595,
+        "easting": 4343660.233,
+        "northing": 1093560.702,
+        "elev_geoid": -1933.632935,
+        "elev_radii": -3610.90918,
+        "radius": 3392579.091,
+        "lon": 77.25819021,
+        "lat": 18.44903049,
+        "roll": 9.798157297,
+        "pitch": -5.938226338,
+        "yaw": -154.506325,
+        "yaw_rad": -2.696644087,
+        "tilt": 11.44210456,
+        "dist_m": 201.606,
+        "dist_total_m": 36694.856,
+        "dist_km": 36.69,
+        "dist_mi": 22.8,
+        "final": "y",
+        "Note": "End-of-drive localization",
+        "x_coordinate": 77.25819021,
+        "y_coordinate": 18.44903049,
+        "z_coordinate": -1933.632935
+    }
+]
