@@ -17978,5 +17978,36 @@
             "y_coordinate": 18.44903049,
             "z_coordinate": -1933.632935
         }
+    },
+    {
+        "pk": 1597,
+        "model": "rovers.perseverancewaypoint",
+        "fields": {
+            "RMC": "78_3588",
+            "site": 78,
+            "drive": 3588,
+            "sol": 1597,
+            "easting": 4343816.501,
+            "northing": 1093412.166,
+            "elev_geoid": -1911.229858,
+            "elev_radii": -3587.574707,
+            "radius": 3392602.425,
+            "lon": 77.26096966,
+            "lat": 18.4465246,
+            "roll": 5.952611839,
+            "pitch": 7.180113674,
+            "yaw": 105.6316067,
+            "yaw_rad": 1.843619332,
+            "tilt": 9.3167487,
+            "dist_m": 232.171,
+            "dist_total_m": 36927.027,
+            "dist_km": 36.93,
+            "dist_mi": 22.95,
+            "final": "y",
+            "Note": "End-of-drive localization",
+            "x_coordinate": 77.26096966,
+            "y_coordinate": 18.4465246,
+            "z_coordinate": -1911.229858
+        }
     }
 ]

@@ -36286,5 +36286,33 @@
             "y_coordinate": -4.80616679,
             "z_coordinate": -3613.975
         }
+    },
+    {
+        "pk": 4633,
+        "model": "rovers.curiositywaypoint",
+        "fields": {
+            "RMC": "118_1350",
+            "site": 118,
+            "drive": 1350,
+            "sol": 4633,
+            "easting": 8143138.615,
+            "northing": -284901.342,
+            "elev_geoid": -3611.188,
+            "lon": 137.3796739,
+            "lat": -4.80645796,
+            "roll": -2.91,
+            "pitch": 13.33,
+            "yaw": -166.61,
+            "yaw_rad": -2.90781,
+            "tilt": 13.64,
+            "dist_m": 19.43,
+            "dist_total_m": 35990.55,
+            "dist_km": 35.69,
+            "dist_mi": 22.18,
+            "drive_type": "final",
+            "x_coordinate": 137.3796739,
+            "y_coordinate": -4.80645796,
+            "z_coordinate": -3611.188
+        }
     }
 ]
