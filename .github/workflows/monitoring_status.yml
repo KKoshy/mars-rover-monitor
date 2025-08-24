@@ -2,7 +2,7 @@ name: Mars Rover Monitoring Status
 run-name: This is being automatically tested out by GitHub Actions
 on:
   schedule:
-    - cron: '0 7 * * *'
+  - cron: '0 7 * * *'
   # workflow_dispatch:
 
 
@@ -145,16 +145,13 @@ jobs:
       run: |
         git config --global user.name "github-actions"
         git config --global user.email "github-actions@github.com"
+        mkdir deploy_temp
+        mv docs/*_data.html deploy_temp
+        mv docs/*.json deploy_temp
         git fetch
         git checkout gh-pages
-        git add docs/* *.md
+        cp -r deploy_temp/* docs/
+        git add docs/*.html docs/*.json *.md
         git commit -m "Deploy JSON Tables with Tabulator.js"
         git push --force origin gh-pages
       continue-on-error: true
-
-    - name: Enable GitHub Pages
-      uses: peaceiris/actions-gh-pages@v4
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_branch: gh-pages
-        publish_dir: .
