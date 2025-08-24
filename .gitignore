@@ -7,6 +7,18 @@ development_app_config/
 # C extensions
 *.so
 
+# Local
+config/
+data/
+monitoring/
+deploy_temp/
+json_diffs/
+previous_json/
+tools/
+*.py
+*.txt
+*.zip
+
 # Distribution / packaging
 .Python
 build/
