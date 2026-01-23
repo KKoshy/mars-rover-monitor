@@ -409,7 +409,7 @@
         "sample_type": "Rock Core",
         "sample_ht_cm": "5.77",
         "sample_ht_in": "2.27",
-        "rock_type": "TBD",
+        "rock_type": "Igneous/impactite",
         "easting": 4343675.628,
         "northing": 1094313.04,
         "elev": -1919.036421,
@@ -430,7 +430,7 @@
         "sample_type": "Rock Core",
         "sample_ht_cm": "6.00",
         "sample_ht_in": "2.36",
-        "rock_type": "TBD",
+        "rock_type": "Igneous/impactite",
         "easting": 4343643.849,
         "northing": 1094344.335,
         "elev": -1925.652401,
@@ -438,6 +438,27 @@
         "lat": 18.46225085,
         "x_coordinate": 77.25789879,
         "y_coordinate": 18.46225085,
-        "z_coordinate": -1925.652401
+        "z_coordinate": -1925.652
+    },
+    {
+        "pk": "TBD",
+        "sample_num": "30",
+        "date": "TBD",
+        "sol": "TBD",
+        "sample_name": "Gallants",
+        "outcrop_name": "Salmon Point",
+        "sample_location": "Crater Rim (Krokodillen)",
+        "sample_type": "Rock Core",
+        "sample_ht_cm": "1.91",
+        "sample_ht_in": "0.75",
+        "rock_type": "Igneous or Sedimentary",
+        "easting": 4343606.317,
+        "northing": 1094263.332,
+        "elev": -1938.749,
+        "lon": 77.25723123,
+        "lat": 18.46088429,
+        "x_coordinate": 77.25723123,
+        "y_coordinate": 18.46088429,
+        "z_coordinate": -1938.749
     }
 ]
