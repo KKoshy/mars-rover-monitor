@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "pk": 1812,
+        "RMC": "87_268",
+        "site": 87,
+        "drive": 268,
+        "sol": 1812,
+        "easting": 4341898.492,
+        "northing": 1092291.742,
+        "elev_geoid": -1960.46875,
+        "elev_radii": -9999.0,
+        "radius": -9999.0,
+        "lon": 77.22685513,
+        "lat": 18.42762237,
+        "roll": 7.696948935,
+        "pitch": 5.03890311,
+        "yaw": 33.3245739,
+        "yaw_rad": 0.5816235364,
+        "tilt": 9.191331154,
+        "dist_m": 11.578,
+        "dist_total_m": 40946.448,
+        "dist_km": 40.95,
+        "dist_mi": 25.44,
+        "final": "y",
+        "Note": "End-of-drive localization",
+        "x_coordinate": 77.22685513,
+        "y_coordinate": 18.42762237,
+        "z_coordinate": -1960.46875
+    }
+]
