@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "pk": 1890,
+        "RMC": "88_3136",
+        "site": 88,
+        "drive": 3136,
+        "sol": 1890,
+        "easting": 4341394.997,
+        "northing": 1092321.975,
+        "elev_geoid": -1966.637817,
+        "elev_radii": -9999.0,
+        "radius": -9999.0,
+        "lon": 77.21789976,
+        "lat": 18.42813242,
+        "roll": 8.665587819,
+        "pitch": 4.472173664,
+        "yaw": 165.9371826,
+        "yaw_rad": 2.896150188,
+        "tilt": 9.743713656,
+        "dist_m": 238.987,
+        "dist_total_m": 42311.648,
+        "dist_km": 42.31,
+        "dist_mi": 26.29,
+        "final": "y",
+        "Note": "End-of-drive localization",
+        "x_coordinate": 77.21789976,
+        "y_coordinate": 18.42813242,
+        "z_coordinate": -1966.637817
+    }
+]
