@@ -18926,5 +18926,33 @@
         "x_coordinate": 77.2207315,
         "y_coordinate": 18.42196404,
         "z_coordinate": -1973.633545
+    },
+    {
+        "pk": 1900,
+        "RMC": "89_800",
+        "site": 89,
+        "drive": 800,
+        "sol": 1900,
+        "easting": 4341458.578,
+        "northing": 1091874.137,
+        "elev_geoid": -1983.956421,
+        "elev_radii": -9999.0,
+        "radius": -9999.0,
+        "lon": 77.21903063,
+        "lat": 18.42057712,
+        "roll": -2.205608051,
+        "pitch": -3.503816436,
+        "yaw": -87.73751588,
+        "yaw_rad": -1.53130853,
+        "tilt": 4.139489122,
+        "dist_m": 139.531,
+        "dist_total_m": 43092.751,
+        "dist_km": 43.09,
+        "dist_mi": 26.78,
+        "final": "y",
+        "Note": "End-of-drive localization",
+        "x_coordinate": 77.21903063,
+        "y_coordinate": 18.42057712,
+        "z_coordinate": -1983.956421
     }
 ]
