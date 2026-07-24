@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "pk": 1927,
+        "RMC": "89_4246",
+        "site": 89,
+        "drive": 4246,
+        "sol": 1927,
+        "easting": 4341399.492,
+        "northing": 1092207.755,
+        "elev_geoid": -1958.947266,
+        "elev_radii": -9999.0,
+        "radius": -9999.0,
+        "lon": 77.21797971,
+        "lat": 18.42620546,
+        "roll": 6.545382518,
+        "pitch": -1.713622714,
+        "yaw": -121.0101401,
+        "yaw_rad": -2.112025373,
+        "tilt": 6.76503873,
+        "dist_m": 6.793,
+        "dist_total_m": 43661.843,
+        "dist_km": 43.66,
+        "dist_mi": 27.13,
+        "final": "y",
+        "Note": "End-of-drive localization",
+        "x_coordinate": 77.21797971,
+        "y_coordinate": 18.42620546,
+        "z_coordinate": -1958.947266
+    }
+]
