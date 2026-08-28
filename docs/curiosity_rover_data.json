@@ -34398,5 +34398,30 @@
         "x_coordinate": 137.3866964,
         "y_coordinate": -4.82359728,
         "z_coordinate": -3498.715
+    },
+    {
+        "pk": 4998,
+        "RMC": "124_1978",
+        "site": 124,
+        "drive": 1978,
+        "sol": 4998,
+        "easting": 8143553.577,
+        "northing": -285921.81,
+        "elev_geoid": -3498.516,
+        "lon": 137.3866745,
+        "lat": -4.82367388,
+        "roll": 2.92,
+        "pitch": 12.48,
+        "yaw": -161.34,
+        "yaw_rad": -2.81599,
+        "tilt": 12.81,
+        "dist_m": 9.26,
+        "dist_total_m": 38176.61,
+        "dist_km": 37.86,
+        "dist_mi": 23.52,
+        "drive_type": "final",
+        "x_coordinate": 137.3866745,
+        "y_coordinate": -4.82367388,
+        "z_coordinate": -3498.516
     }
 ]
