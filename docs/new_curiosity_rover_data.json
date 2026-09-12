@@ -23,5 +23,30 @@
         "x_coordinate": 137.3871122,
         "y_coordinate": -4.82414128,
         "z_coordinate": -3493.685
+    },
+    {
+        "pk": 5011,
+        "RMC": "124_2866",
+        "site": 124,
+        "drive": 2866,
+        "sol": 5011,
+        "easting": 8143607.998,
+        "northing": -285976.865,
+        "elev_geoid": -3488.925,
+        "lon": 137.3875926,
+        "lat": -4.82460269,
+        "roll": 0.01,
+        "pitch": 11.65,
+        "yaw": 159.17,
+        "yaw_rad": 2.77796,
+        "tilt": 11.65,
+        "dist_m": 55.93,
+        "dist_total_m": 38278.56,
+        "dist_km": 37.96,
+        "dist_mi": 23.59,
+        "drive_type": "final",
+        "x_coordinate": 137.3875926,
+        "y_coordinate": -4.82460269,
+        "z_coordinate": -3488.925
     }
 ]
