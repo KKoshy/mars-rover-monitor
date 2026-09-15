@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "pk": 1979,
+        "RMC": "91_852",
+        "site": 91,
+        "drive": 852,
+        "sol": 1979,
+        "easting": 4342181.718,
+        "northing": 1092856.374,
+        "elev_geoid": -1927.661255,
+        "elev_radii": -9999.0,
+        "radius": -9999.0,
+        "lon": 77.23189271,
+        "lat": 18.43714805,
+        "roll": 1.496789665,
+        "pitch": -11.62275065,
+        "yaw": -176.3730052,
+        "yaw_rad": -3.078289653,
+        "tilt": 11.71741846,
+        "dist_m": 1.63,
+        "dist_total_m": 45107.347,
+        "dist_km": 45.11,
+        "dist_mi": 28.03,
+        "final": "y",
+        "Note": "End-of-drive localization",
+        "x_coordinate": 77.23189271,
+        "y_coordinate": 18.43714805,
+        "z_coordinate": -1927.661255
+    }
+]
