@@ -1,6 +1,17 @@
+<div align="center">
+
 # MRM - Mars Rovers Monitor
 This repo runs a simple script capturing the waypoint data of NASA's Mars rover missions Curiosity and Perseverance. <br>
 The data from the latest run, along with the differences from the previous run, are published [here](https://kkoshy.github.io/mars-rover-monitor/).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-graphene--django-092E20?style=flat-square&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-queries-E10098?style=flat-square&logo=graphql&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-published-222222?style=flat-square&logo=github&logoColor=white)
+![Data](https://img.shields.io/badge/data-NASA%20Mars%20missions-0B3D91?style=flat-square&logo=nasa&logoColor=white)
+![Updates](https://img.shields.io/badge/updates-daily-brightgreen?style=flat-square)
+
+</div>
 
 ## MRM - Trace data
 The following files show the complete set of waypoints traced by the corresponding mission.<br>
@@ -97,12 +108,4 @@ You have reached the end of this document.<br>
 Thank you for your patience.<br>
 If you have any questions, feedback, or suggestions, feel free to reach out.<br>
 
-- 📧 Email: [kamalikoshy97@gmail.com](mailto:kamalikoshy97@gmail.com)  
-
-
-
-
-
-
-
-
+- 📧 Email: [kamalikoshy97@gmail.com](mailto:kamalikoshy97@gmail.com)
