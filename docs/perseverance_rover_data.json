@@ -19682,5 +19682,33 @@
         "x_coordinate": 77.23205444,
         "y_coordinate": 18.43687407,
         "z_coordinate": -1930.194946
+    },
+    {
+        "pk": 2006,
+        "RMC": "91_1496",
+        "site": 91,
+        "drive": 1496,
+        "sol": 2006,
+        "easting": 4342233.329,
+        "northing": 1092762.392,
+        "elev_geoid": -1937.829712,
+        "elev_radii": -9999.0,
+        "radius": -9999.0,
+        "lon": 77.23281069,
+        "lat": 18.43556252,
+        "roll": 5.227204304,
+        "pitch": -5.735683552,
+        "yaw": 179.2992436,
+        "yaw_rad": 3.129362147,
+        "tilt": 7.75437592,
+        "dist_m": 91.313,
+        "dist_total_m": 45217.391,
+        "dist_km": 45.22,
+        "dist_mi": 28.1,
+        "final": "y",
+        "Note": "End-of-drive localization",
+        "x_coordinate": 77.23281069,
+        "y_coordinate": 18.43556252,
+        "z_coordinate": -1937.829712
     }
 ]
